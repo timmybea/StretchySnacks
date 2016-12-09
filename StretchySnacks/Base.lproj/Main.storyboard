@@ -48,8 +48,9 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="MyNavHeight" destination="HT5-pL-8xa" id="oOo-d6-aFY"/>
-                        <outlet property="MyNavView" destination="NGx-mn-5Av" id="fcV-p1-7UC"/>
+                        <outlet property="addButton" destination="Hjt-YV-Zdn" id="Y00-jD-r99"/>
+                        <outlet property="myNavHeight" destination="HT5-pL-8xa" id="d9R-nB-ah9"/>
+                        <outlet property="myNavView" destination="NGx-mn-5Av" id="JzZ-FP-gC5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
